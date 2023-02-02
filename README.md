@@ -1,4 +1,4 @@
-# 8x8_LED_Matrix_V1.0
+# 8x8 LED Matrix V1.0
 
 The 8x8 LED Matrix Breakout Board is a compact, versatile solution for displaying colorful, animated patterns and characters. It features a matrix of 64 bright LEDs arranged in an 8x8 grid, capable of displaying a wide range of patterns, symbols, and characters. This breakout board is ideal for hobby projects, prototyping, and educational purposes.
 
