@@ -8,8 +8,17 @@ The WS2812B chip, which is used in the 8x8 LED matrix board, is an intelligent c
 
 ## Features:
 
-* 
-*
+* Intelligent reverse connect prevention prevents harm to the IC from the power supply's reverse connection.
+* The only power supply is shared by the control circuit and the LED.
+* In a package of 5050 components, a control circuit and an RGB chip are combined to create a full pixel point control.
+* Built-in signal reshaping circuit ensures wave-form distortion does not build up following wave reshaping to the next driver.
+* Power loss reset circuit and built-in electric reset circuit.
+* Each of the three basic colors(RGB)' pixels is capable of a 256 brightness display, a full 16777216 color display, and a scan frequency of at least 400Hz/s.
+* A single data line of cascading port transmission signal.
+* Any two points greater than 5 meters apart can communicate without an additional circuit.
+* Send data at an 800Kbps rate.
+* The light's hue was very reliable and economical.
+
 
 <img src ="https://github.com/sbcshop/8x8_LED_Matrix_V1.0_Software/blob/main/images/8x8%20LEd%20Matrix.png" />
 
