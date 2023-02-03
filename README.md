@@ -24,8 +24,7 @@ The WS2812B chip, which is used in the 8x8 LED matrix board, is an intelligent c
 
 ## Interfacng/connecting Multi-Board
 
-<img src ="" />
-
+<img src ="https://github.com/sbcshop/8x8_LED_Matrix_V1.0_Software/blob/main/images/8x8%20MATRIX%20PINOUT.png" />
 
 
 ## Repository Contents
