@@ -29,9 +29,9 @@ The WS2812B chip, which is used in the 8x8 LED matrix board, is an intelligent c
 
 ## Repository Contents
 
-* [**/Python_Package**](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - This directory contains Step by step guide, Micropython Example codes and Library
+* [**/Python_Examples**](https://github.com/sbcshop/SquaryPi-Software/tree/main/Python_Package) - This directory contains Step by step guide, Micropython Example codes.
 
-* [Arduino_Package]() - This directory contains step by step guide, Cpp Example codes and Library.
+* [**Arduino_Examples**]() - This directory contains step by step guide, Cpp Example codes.
 
 
 ## Learning Guide
