@@ -54,11 +54,14 @@ The WS2812B chip, which is used in the 8x8 LED matrix board, is an intelligent c
 
 ## Related Products
 
-* [SquaryFi](https://shop.sb-components.co.uk/collections/raspberry-pi-pico/products/squary?variant=40443840921683) - ESP8266-12E version of SquaryPi
+* [PiCube](https://shop.sb-components.co.uk/products/picube-4x4x4-led-cube-kit-for-raspberry-pi) 
 
- ![SquaryFi](https://cdn.shopify.com/s/files/1/1217/2104/products/2_12d19ffa-bcda-47bf-8ea9-bb76fc40aee3.png?v=1670307456&width=300)
+ ![PiCube](https://cdn.shopify.com/s/files/1/1217/2104/products/4_983efe7f-fe0d-49e4-b69a-1fca41e4ce46.png?v=1609844104&width=700)
  
+* [Pico Cube](https://shop.sb-components.co.uk/products/pico-cube-assembled) 
 
+ ![Pico Cube](https://cdn.shopify.com/s/files/1/1217/2104/products/LEDCube.png?v=1638270720&width=700)
+ 
 ## Product License
 
 This is ***open source*** product. Kindly check LICENSE.md file for more information.
