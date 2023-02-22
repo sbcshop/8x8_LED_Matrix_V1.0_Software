@@ -1,7 +1,7 @@
 # 8x8 LED Matrix V1.0
 
 <img src ="https://cdn.shopify.com/s/files/1/1217/2104/files/8x8ledmatrix_1051d9a6-13c2-4e38-bfaa-49da1bdff3e5.png?v=1675343875" />
-
+<img src ="https://github.com/sbcshop/8x8_LED_Matrix_V1.0_Software/blob/main/images/img.png" />
 The 8x8 LED Matrix Breakout Board is a compact, versatile solution for displaying colorful, animated patterns and characters. It features a matrix of 64 bright LEDs arranged in an 8x8 grid, capable of displaying a wide range of patterns, symbols, and characters. This breakout board is ideal for hobby projects, prototyping, and educational purposes.
 
 The WS2812B chip, which is used in the 8x8 LED matrix board, is an intelligent control LED light source that control circuit and RGB chip are both built into a package of 5050 components. Its inner components include a signal-reshaping amplifier driving circuit and an intelligent digital port data latch. Include a precise internal oscillator and a 12V voltage programmable constant-current control component to further guarantee the consistency of the pixel point light color height.
