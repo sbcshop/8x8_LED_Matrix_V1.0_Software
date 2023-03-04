@@ -1,13 +1,12 @@
 # Example using PIO to drive a set of WS2812 LEDs.
-
 import array, time
 from machine import Pin
 import rp2
 
 # Configure the number of WS2812 LEDs.
-NUM_LEDS =64
-PIN_NUM = 18
-brightness = 0.2  # (low bright)0.1 - 1.0 (max bright)
+NUM_LEDS =64 # Number of leds, in led matrix we have 64 led's
+PIN_NUM = 0  # GPIO Pin Number of PICO
+brightness = 0.2  # (low bright)0.1 to 1.0 (max bright)
 
 @rp2.asm_pio(sideset_init=rp2.PIO.OUT_LOW, out_shiftdir=rp2.PIO.SHIFT_LEFT, autopull=True, pull_thresh=24)
 def ws2812():
