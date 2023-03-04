@@ -1,26 +1,11 @@
-###############################################################
-# WS2812 RGB LED Ring Light Breathing
-# with the Raspberry Pi Pico Microcontroller
-#
-# by Joshua Hrisko, Maker Portal LLC (c) 2021
-#
-# Based on the Example neopixel_ring at:
-# https://github.com/raspberrypi/pico-micropython-examples
-###############################################################
-#
 import array, time
 from machine import Pin
 import rp2
 
-#
-############################################
-# RP2040 PIO and Pin Configurations
-############################################
-#
-# WS2812 LED Ring Configuration
-led_count = 64 # number of LEDs in ring light
-PIN_NUM = 0 # pin connected to ring light
-brightness = 1 # 0.1 = darker, 1.0 = brightest
+# WS2812 LED Configuration
+NUM_LEDS =64 # Number of leds, in led matrix we have 64 led's
+PIN_NUM = 0  # GPIO Pin Number of PICO
+brightness = 0.2  # (low bright)0.1 to 1.0 (max bright)
 
 @rp2.asm_pio(sideset_init=rp2.PIO.OUT_LOW, out_shiftdir=rp2.PIO.SHIFT_LEFT,
              autopull=True, pull_thresh=24) # PIO configuration
