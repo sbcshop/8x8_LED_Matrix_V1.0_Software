@@ -43,7 +43,7 @@ The WS2812B chip, which is used in the 8x8 LED matrix board, is an intelligent c
 
 ## Documentation
 
-* [8x8_LED_Matrix Hardware]()
+* [8x8_LED_Matrix Hardware](https://github.com/sbcshop/8x8_LED_Matrix_V1.0_Hardware)
 * [RaspberryPi PICO Getting Started with Micropython](https://www.raspberrypi.com/documentation/microcontrollers/micropython.html)
 * [RaspberryPi PICO Official website](https://www.raspberrypi.com/documentation/microcontrollers/)
 * [RP2040 Datasheet](https://www.raspberrypi.com/documentation/microcontrollers/rp2040.html)
