@@ -1,7 +1,3 @@
-// For Arduino Nano or Uno along with the NeoPixel NeoMatrix 8X8 panel by Chemdoc77
-// Published 10/15/2014
-// Based on Adafruit's ColorWipe function.
-// Thanks to all of the great people at Adafruit.com for their amazing products, great tutorials and outstanding forum help.
 
 /*This is free software: you can redistribute it and/or modify
 it under the terms of the GNU Lesser General Public License as
